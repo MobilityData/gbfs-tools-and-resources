@@ -40,7 +40,7 @@ Places to ask questions and find other community resources.
 Places to access collections of GTFS and other transit and multimodal data
 
 #### 3rd party GBFS URL directories
-- [Bike Share Research] (https://bikeshare-research.org) - Bike Share Research (BSR) aims to facilitate the curatation of BSS data through a collaborative and open data platform while making it API accessible.
+- [Bike Share Research](https://bikeshare-research.org) - Bike Share Research (BSR) aims to facilitate the curatation of BSS data through a collaborative and open data platform while making it API accessible.
 
 #### Proprietary (non-standard) vendor APIs
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
