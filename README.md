@@ -44,6 +44,7 @@ Places to access collections of GTFS and other transit and multimodal data
 
 #### Proprietary (non-standard) vendor APIs
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
+- [fluctuo Data Flow](https://fluctuo.com/data-flow/) - Realtime vehicles location API. Exhaustive and reliable standardized data on free-floating mobility services (bikes, kick-scooters & motor-scooters) available on real-time.
 
 ### Software for Creating APIs
 
