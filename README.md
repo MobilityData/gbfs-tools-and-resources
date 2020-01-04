@@ -83,6 +83,8 @@ Apps people use when traveling using shared micromobility.
 
 ### Visualizations
 
+- [GBFS-Viewer](https://github.com/idoco/gbfs-viewer) - [View micromobility data](https://idoco.github.io/gbfs-viewer/#) in your browser.
+
 ### GBFS
 - [GBFS Spec](https://github.com/NABSA/gbfs) - Specification for the General Bikeshare Feed Specification, or GBFS.
 - [NABSA's Open Data Resources](https://nabsa.net/opendata/) - NABSA's GBFS and Data Principles webpage.
