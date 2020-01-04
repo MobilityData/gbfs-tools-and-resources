@@ -44,6 +44,7 @@ Places to access collections of GTFS and other transit and multimodal data
 
 #### Proprietary (non-standard) vendor APIs
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
+- [fluctuo Data Flow](https://fluctuo.com/data-flow/) - Realtime vehicles location API. Exhaustive and reliable standardized data on free-floating mobility services (bikes, kick-scooters & motor-scooters) available on real-time.
 
 ### Software for Creating APIs
 
@@ -83,6 +84,7 @@ Apps people use when traveling using shared micromobility.
 ### Visualizations
 
 - [GBFS/Open Data Viewer](https://share.municipal.systems/oJl_L-B8f) - Visualize micromobility and other open data. 
+- [GBFS-Viewer](https://github.com/idoco/gbfs-viewer) - [View micromobility data](https://idoco.github.io/gbfs-viewer/#) in your browser.
 
 ### GBFS
 - [GBFS Spec](https://github.com/NABSA/gbfs) - Specification for the General Bikeshare Feed Specification, or GBFS.
@@ -94,7 +96,7 @@ Apps people use when traveling using shared micromobility.
 - [gbfs R package](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
 
 #### GBFS Validators
-- [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - 3rd party tool to validate GBFS feeds.
+- [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - [3rd party tool](https://gbfs-validator.netlify.com/) to validate GBFS feeds.
 
 #### GBFS Archival Tools
 
