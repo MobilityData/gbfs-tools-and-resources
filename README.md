@@ -92,6 +92,7 @@ Apps people use when traveling using shared micromobility.
 - [NABSA's Open Data Resources](https://nabsa.net/opendata/) - NABSA's GBFS and Data Principles webpage.
 
 #### GBFS Libraries
+- [BikeshareClient](https://github.com/andmos/BikeshareClient) - dotnet client for General Bikeshare Feed Specification (GBFS) written in C#. Enables dotnet developers to create apps and services using data from GBFS Bikeshare systems.
 
 #### GBFS Analysis Tools
 - [gbfs R package](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
