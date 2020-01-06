@@ -81,6 +81,7 @@ Apps people use when traveling using shared micromobility.
 - [CityMapper](https://citymapper.com/)
 - [Moovit](http://moovitapp.com/)
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
+- [VeloDispo](https://www.velodispo.eu)
 
 ### Visualizations
 
