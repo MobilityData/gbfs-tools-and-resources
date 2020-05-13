@@ -74,6 +74,7 @@ Apps people use when traveling using shared micromobility.
 - [OpenTripPlanner Android](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 - [findmybikes](https://play.google.com/store/apps/details?id=com.ludoscity.findmybikes) - An android app for trip planning and automatic recording [*(source code)*](https://github.com/f8full/findmybikes)
+- [MonTransit](https://play.google.com/store/apps/details?id=org.mtransit.android) - An Android app for public transit & bike sharing in Canada [*(source code)*](https://github.com/mtransitapps)
 
 
 #### Native Apps (closed source)
