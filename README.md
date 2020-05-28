@@ -17,7 +17,7 @@ Have something to add or change? Open a [pull request](https://github.com/NABSA/
   - [Native Apps (open source)](#native-apps-open-source)
   - [Native Apps (closed source)](#native-apps-closed-source)
 - [Visualizations](#visualizations)
-- [GBFS](#gtfs)
+- [GBFS](#gbfs)
   - [GBFS Libraries](#gbfs-libraries)
   - [GBFS Analysis Tools](#gbfs-analysis-tools)
   - [GBFS Validators](#gbfs-validators)
@@ -37,7 +37,7 @@ Places to ask questions and find other community resources.
 
 ### Data
 
-Places to access collections of GTFS and other transit and multimodal data
+Places to access collections of GBFS and other transit and multimodal data
 
 #### 3rd party GBFS URL directories
 - [Bike Share Research](https://bikeshare-research.org) - Bike Share Research (BSR) aims to facilitate the curatation of BSS data through a collaborative and open data platform while making it API accessible.
