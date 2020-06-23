@@ -42,6 +42,9 @@ Places to access collections of GBFS and other transit and multimodal data
 #### 3rd party GBFS URL directories
 - [Bike Share Research](https://bikeshare-research.org) - Bike Share Research (BSR) aims to facilitate the curatation of BSS data through a collaborative and open data platform while making it API accessible.
 
+#### Archived bikeshare data
+- [Open Mobility Foundation Mobility Data Management State of Practice - Public Data Sharing](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice#public-data-sharing) - A list of open / public mobility data sets, and information about approaches to anonymization published by cities.
+
 #### Proprietary (non-standard) vendor APIs
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
 - [fluctuo Data Flow](https://fluctuo.com/data-flow/) - Realtime vehicles location API. Exhaustive and reliable standardized data on free-floating mobility services (bikes, kick-scooters & motor-scooters) available on real-time.
