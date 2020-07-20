@@ -46,6 +46,7 @@ Places to access collections of GBFS and other transit and multimodal data
 - [Open Mobility Foundation Mobility Data Management State of Practice - Public Data Sharing](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice#public-data-sharing) - A list of open / public mobility data sets, and information about approaches to anonymization published by cities.
 
 #### Proprietary (non-standard) vendor APIs
+- [Bestmap shared mobility](https://bestmap.net/api_bikes) - Realtime shared mobility API that makes it easy to implement updatable data of mobility services like bikes, scooters, mopeds around the world to your software solution.
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
 - [fluctuo Data Flow](https://fluctuo.com/data-flow/) - Realtime vehicles location API. Exhaustive and reliable standardized data on free-floating mobility services (bikes, kick-scooters & motor-scooters) available on real-time.
 
@@ -82,6 +83,7 @@ Apps people use when traveling using shared micromobility.
 
 #### Native Apps (closed source)
 
+- [Bestmap](https://bestmap.net)
 - [Transit](http://transitapp.com/)
 - [CityMapper](https://citymapper.com/)
 - [Moovit](http://moovitapp.com/)
