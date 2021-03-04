@@ -132,6 +132,8 @@ Apps people use when traveling using shared micromobility.
 - [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
 - [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - The objective of this research is to develop standards and/or guidance to be used and adopted by the transportation community in collecting, managing, and sharing static and real-time data for transportation planning and operations.
 - [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
+- [CurbLR](https://github.com/curblr/curblr-spec) - CurbLR is a data standard for describing curb regulations. It exists to help government effectively manage and regulate the curb and to support public and private users of city streets.
+- [shared-row](https://github.com/d-wasserman/shared-row) - This is an open data specification for describing the right-of-way (ROW) for a SharedStreets Reference. It is intended to establish a common set of attributes (schema) to describe how space is allocated along a streets right of way from sidewalk edge to sidewalk edge.
 
 ### Resources
 
