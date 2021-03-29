@@ -106,7 +106,7 @@ Apps people use when traveling using shared micromobility.
 - [gbfs R package](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
 
 #### GBFS Schema
-- [gbfs-json-schema](https://github.com/MobilityData/gbfs-json-schema) - JSON schemas for all existing versions of GBFS (up to v3.0).
+- [gbfs-json-schema](https://github.com/MobilityData/gbfs-json-schema) - JSON schemas for all existing versions of GBFS (including up to v2.2 and v3.0RC).
 
 #### GBFS Validators
 - [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - [3rd party tool](https://gbfs-validator.netlify.com/) to validate GBFS feeds.
