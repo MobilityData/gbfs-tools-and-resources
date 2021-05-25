@@ -43,7 +43,7 @@ Places to access collections of GBFS and other transit and multimodal data
 - [Bike Share Research](https://bikeshare-research.org) - Bike Share Research (BSR) aims to facilitate the curatation of BSS data through a collaborative and open data platform while making it API accessible.
 
 #### Archived bikeshare data
-- [Open Mobility Foundation Mobility Data Management State of Practice - Public Data Sharing](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice#public-data-sharing) - A list of open / public mobility data sets, and information about approaches to anonymization published by cities.
+- [Open Mobility Foundation Mobility Data Management State of Practice - Public Data Sharing](https://github.com/openmobilityfoundation/privacy-committee/blob/main/products/state-of-the-practice.md) - A list of open / public mobility data sets, and information about approaches to anonymization published by cities.
 
 #### Proprietary (non-standard) vendor APIs
 - [Bestmap shared mobility](https://bestmap.net/api_bikes) - Realtime shared mobility API that makes it easy to implement updatable data of mobility services like bikes, scooters, mopeds around the world to your software solution.
@@ -66,15 +66,14 @@ Apps people use when traveling using shared micromobility.
 #### Web Apps
 
 - [OpenTripPlanner Client GWT](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
-- [OpenTripPlanner.js](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner
+- [OpenTripPlanner.js](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner. No longer under development but contains links to replacement tools.
 - [Bikeshare Map](http://bikes.oobrien.com/) - Status of all worldwide bikeshare stations
 - [CityMapper Webapp](https://citymapper.com/nyc) - Really polished webapp with trip planner and route status for over 30 of cities.
-- [1-Click](http://camsys.software/products/1-click) - A virtual “trip aggregator” that assembles information on a wide variety of available modes: public transit, private, rail, rideshare, carpool, volunteer, paratransit, and walking and biking. Open-source [on Github](https://github.com/camsys/oneclick).
 
 
 #### Native Apps (open source)
 
-- OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-iphone), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219)
+- OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-iphone), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), Windows 8 [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219)
 - [OpenTripPlanner Android](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 - [findmybikes](https://play.google.com/store/apps/details?id=com.ludoscity.findmybikes) - An android app for trip planning and automatic recording [*(source code)*](https://github.com/f8full/findmybikes)
@@ -92,11 +91,11 @@ Apps people use when traveling using shared micromobility.
 
 ### Visualizations
 
-- [GBFS/Open Data Viewer](https://share.municipal.systems/oJl_L-B8f) - Visualize micromobility and other open data. 
 - [GBFS-Viewer](https://github.com/idoco/gbfs-viewer) - [View micromobility data](https://idoco.github.io/gbfs-viewer/#) in your browser.
 
 ### GBFS
 - [GBFS Spec](https://github.com/NABSA/gbfs) - Specification for the General Bikeshare Feed Specification, or GBFS.
+- [MobilityData's GBFS Resource Center](https://gbfs.mobilitydata.org/) - information about the GBFS specification, proposed changes, resources & training, & more.
 - [NABSA's Open Data Resources](https://nabsa.net/opendata/) - NABSA's GBFS and Data Principles webpage.
 
 #### GBFS Libraries
