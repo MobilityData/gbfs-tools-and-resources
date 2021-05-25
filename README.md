@@ -102,7 +102,7 @@ Apps people use when traveling using shared micromobility.
 - [BikeshareClient](https://github.com/andmos/BikeshareClient) - dotnet client for General Bikeshare Feed Specification (GBFS) written in C#. Enables dotnet developers to create apps and services using data from GBFS Bikeshare systems.
 
 #### GBFS Analysis Tools
-- [gbfs R package](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
+- [gbfs R package](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
 
 #### GBFS Schema
 - [gbfs-json-schema](https://github.com/MobilityData/gbfs-json-schema) - JSON schemas for all existing versions of GBFS (including up to v2.2 and v3.0RC).
