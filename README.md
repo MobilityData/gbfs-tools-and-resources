@@ -115,6 +115,8 @@ Apps people use when traveling using shared micromobility.
 - [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - [3rd party tool](https://gbfs-validator.netlify.com/) to validate GBFS feeds.
 
 #### GBFS Archival Tools
+- [bicidata](https://github.com/bicidata/bicidata) - A framework to snapshot, archive, report, and publish GBFS data.
+- [A Python and StreamSets dataflow for GBFS](https://github.com/omnisci/gbfs_kafka) - The intent of this repository is to demonstrate how to create a fully open-source streaming data example using OmniSci.
 
 ### Other multimodal data formats
 - [GTFS](https://github.com/google/transit/tree/master/gtfs) -  A GTFS feed is a group of text files that contains infrequently changing transit data, like stops, routes, trips, and other schedule data. Transit agencies typically update their GTFS feed every few months.
