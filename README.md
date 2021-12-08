@@ -69,6 +69,8 @@ Apps people use when traveling using shared micromobility.
 - [OpenTripPlanner.js](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner. No longer under development but contains links to replacement tools.
 - [Bikeshare Map](http://bikes.oobrien.com/) - Status of all worldwide bikeshare stations
 - [CityMapper Webapp](https://citymapper.com/nyc) - Really polished webapp with trip planner and route status for over 30 of cities.
+- [thin-GBFS](https://thin-gbfs.appspot.com/) - 'A thin and low-network-use mobile web app for many common bike sharing systems.'
+- [HumbleBike](https://humble.bike) - 'Simple, no frills, low-resource UI for finding CitiBikes.'
 
 
 #### Native Apps (open source)
@@ -88,10 +90,12 @@ Apps people use when traveling using shared micromobility.
 - [Moovit](http://moovitapp.com/)
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
 - [VeloDispo](https://www.velodispo.eu)
+- [Eazy.bike](https://eazy.bike/)
 
 ### Visualizations
 
 - [GBFS-Viewer](https://github.com/idoco/gbfs-viewer) - [View micromobility data](https://idoco.github.io/gbfs-viewer/#) in your browser.
+- [BikeDashboard](https://github.com/andmos/BikeDashboard) - "Simple website to track my closest Bikeshare station"
 
 ### GBFS
 - [GBFS Spec](https://github.com/NABSA/gbfs) - Specification for the General Bikeshare Feed Specification, or GBFS.
