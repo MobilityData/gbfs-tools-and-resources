@@ -1,4 +1,4 @@
-# micromobility-tools-and-resources
+# gbfs-tools-and-resources
 
 In March 2022, MobilityData updated this list to maintain and further improve it as a community resource. 
 
